@@ -52,7 +52,7 @@ function Footer({ className }: { className?: string }) {
         />
         <p>
           All rights reserved Visey | Designed and built with love - Copyright©
-          2024
+          2026
         </p>
 
         <Separator className="bg-primary mt-6" />
@@ -106,7 +106,7 @@ function Footer({ className }: { className?: string }) {
         <div className="space-y-2">
           <h2 className="font-semibold text-xl">Social Links</h2>
           <div className="flex gap-x-2">
-            <Link href="https://chat.whatsapp.com/B7qoH1FiKGKKK7rAKAo4nn">
+            <Link href="https://chat.whatsapp.com/C5Vm7gMrEBj6NBt83d8RqV">
               <WhatsappLogo size={24} />
             </Link>
             <Link href="https://youtube.com/@viseyindiaofficial">
